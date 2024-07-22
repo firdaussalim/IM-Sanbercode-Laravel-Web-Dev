@@ -1,0 +1,3 @@
+Motivasi saya adalah memenuhi impian saya membangun karir menjadi seorang software engineer, dan saya ingin memiliki skill full stack web developer dimulai dari Laravel. 
+Harapan saya mengikuti kelas bootcamp ini adalah memiliki skill yang cukup untuk bisa mengambil project Laravel dan siap untuk bekerja jadi backend developer. 
+Tentu saya ingin melanjutkan ke front end setelah ini selesai.
