@@ -1,11 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sign Up Form Sanberbook</title>
-</head>
-<body>
+@extends('layouts.master')
+
+@section('judul')
+Form Registrasi
+@endsection
+
+@section('content')
     <h1>Buat Account Baru!</h1>
     <h2>Sign Up Form</h2>
     <form method="POST" action="/welcome">
@@ -82,5 +81,4 @@
             margin-top:1em;
         }
     </style>
-</body>
-</html>
+@endsection

@@ -18,3 +18,5 @@ use Illuminate\Support\Facades\Route;
 Route::get('/',[HomeController::class, 'home']);
 Route::get('/register',[HomeController::class, 'register']);
 Route::post('/welcome',[AuthController::class, 'submit']);
+Route::get('/data-table',[HomeController::class, 'dataTable']);
+Route::get('/table',[HomeController::class, 'table']);
